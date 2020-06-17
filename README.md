@@ -8,7 +8,15 @@
 2. [**Middle Frontend Developer**](middle.png?raw=true) (image)
 3. [**Senior Frontend Developer**](senior.png?raw=true) (image)
 
+
+
 ![Mindmap](./junior.png)
+
+![Mindmap](./middle.png)
+
+![Mindmap](./senior.png)
+
+
 
 ## Recommendations
 
